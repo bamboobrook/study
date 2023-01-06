@@ -13,13 +13,13 @@
 
 然后执行  
 >`sudo update-grub`  
-`sudo systemctl set-default multi-usser.target`  
+`sudo systemctl set-default multi-user.target`  
 `sudo reboot`  
 
 卸载gnome3
 >`sudo snap remove gnmoe`  
 `sudo snap remove store`  //卸载图形商店  
-`sudo aot remove snaped`  
+`sudo apt remove snaped`  
 
 接下来，就可以享受纯命令之旅了！
 
